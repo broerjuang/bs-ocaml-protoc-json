@@ -1,6 +1,7 @@
 {
   "name": "bs-ocaml-protoc-json",
-  "sources": [ "src", "tests"], 
-  "bs-dependencies": [ 
-  ]
+  "version": "0.1.1",
+  "sources": ["src"],
+  "bs-dependencies": [],
+  "refmt": 3
 }
